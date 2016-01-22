@@ -12652,7 +12652,6 @@ mohammad
 mohammad
 mohammad
 mohammad}'
-{description = "SPAM", 
   usage = {"use [!/]spam to fuck ur groups"},
   patterns = {"^[!/](spam)"}, 
   run = run 
